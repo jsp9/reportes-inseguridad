@@ -1,9 +1,0 @@
-# Zona Ki'ich Kelem Ajal, Conquista Pherkad, Cd Jardín
-![alt text](https://github.com/jsp9/reportes-inseguridad/blob/main/carpetas/data/figures/Zona Ki'ich Kelem Ajal, Conquista Pherkad, Cd Jardín/01.png)
-![alt text](https://github.com/jsp9/reportes-inseguridad/blob/main/carpetas/data/figures/Zona Ki'ich Kelem Ajal, Conquista Pherkad, Cd Jardín/02.png)
-![alt text](https://github.com/jsp9/reportes-inseguridad/blob/main/carpetas/data/figures/Zona Ki'ich Kelem Ajal, Conquista Pherkad, Cd Jardín/03.png)
-![alt text](https://github.com/jsp9/reportes-inseguridad/blob/main/carpetas/data/figures/Zona Ki'ich Kelem Ajal, Conquista Pherkad, Cd Jardín/04.png)
-![alt text](https://github.com/jsp9/reportes-inseguridad/blob/main/carpetas/data/figures/Zona Ki'ich Kelem Ajal, Conquista Pherkad, Cd Jardín/05.png)
-![alt text](https://github.com/jsp9/reportes-inseguridad/blob/main/carpetas/data/figures/Zona Ki'ich Kelem Ajal, Conquista Pherkad, Cd Jardín/06.png)
-![alt text](https://github.com/jsp9/reportes-inseguridad/blob/main/carpetas/data/figures/Zona Ki'ich Kelem Ajal, Conquista Pherkad, Cd Jardín/07.png)
-![alt text](https://github.com/jsp9/reportes-inseguridad/blob/main/carpetas/data/figures/Zona Ki'ich Kelem Ajal, Conquista Pherkad, Cd Jardín/map.png)

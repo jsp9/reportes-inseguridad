@@ -1,0 +1,9 @@
+# ZonaHyadi_ConquistaDeneb_LasAméricas
+![alt text](https://github.com/jsp9/reportes-inseguridad/blob/main/carpetas/data/figures/ZonaHyadi_ConquistaDeneb_LasAméricas/01.png)
+![alt text](https://github.com/jsp9/reportes-inseguridad/blob/main/carpetas/data/figures/ZonaHyadi_ConquistaDeneb_LasAméricas/02.png)
+![alt text](https://github.com/jsp9/reportes-inseguridad/blob/main/carpetas/data/figures/ZonaHyadi_ConquistaDeneb_LasAméricas/03.png)
+![alt text](https://github.com/jsp9/reportes-inseguridad/blob/main/carpetas/data/figures/ZonaHyadi_ConquistaDeneb_LasAméricas/04.png)
+![alt text](https://github.com/jsp9/reportes-inseguridad/blob/main/carpetas/data/figures/ZonaHyadi_ConquistaDeneb_LasAméricas/05.png)
+![alt text](https://github.com/jsp9/reportes-inseguridad/blob/main/carpetas/data/figures/ZonaHyadi_ConquistaDeneb_LasAméricas/06.png)
+![alt text](https://github.com/jsp9/reportes-inseguridad/blob/main/carpetas/data/figures/ZonaHyadi_ConquistaDeneb_LasAméricas/07.png)
+![alt text](https://github.com/jsp9/reportes-inseguridad/blob/main/carpetas/data/figures/ZonaHyadi_ConquistaDeneb_LasAméricas/map.png)

@@ -1,9 +1,0 @@
-# Zona Toktli Amoneuki, Cadena Dinorwic, Alameda Sur
-![alt text](https://github.com/jsp9/reportes-inseguridad/blob/main/carpetas/data/figures/Zona Toktli Amoneuki, Cadena Dinorwic, Alameda Sur/01.png)
-![alt text](https://github.com/jsp9/reportes-inseguridad/blob/main/carpetas/data/figures/Zona Toktli Amoneuki, Cadena Dinorwic, Alameda Sur/02.png)
-![alt text](https://github.com/jsp9/reportes-inseguridad/blob/main/carpetas/data/figures/Zona Toktli Amoneuki, Cadena Dinorwic, Alameda Sur/03.png)
-![alt text](https://github.com/jsp9/reportes-inseguridad/blob/main/carpetas/data/figures/Zona Toktli Amoneuki, Cadena Dinorwic, Alameda Sur/04.png)
-![alt text](https://github.com/jsp9/reportes-inseguridad/blob/main/carpetas/data/figures/Zona Toktli Amoneuki, Cadena Dinorwic, Alameda Sur/05.png)
-![alt text](https://github.com/jsp9/reportes-inseguridad/blob/main/carpetas/data/figures/Zona Toktli Amoneuki, Cadena Dinorwic, Alameda Sur/06.png)
-![alt text](https://github.com/jsp9/reportes-inseguridad/blob/main/carpetas/data/figures/Zona Toktli Amoneuki, Cadena Dinorwic, Alameda Sur/07.png)
-![alt text](https://github.com/jsp9/reportes-inseguridad/blob/main/carpetas/data/figures/Zona Toktli Amoneuki, Cadena Dinorwic, Alameda Sur/map.png)

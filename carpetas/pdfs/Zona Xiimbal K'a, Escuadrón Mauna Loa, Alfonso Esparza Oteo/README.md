@@ -1,9 +1,0 @@
-# Zona Xiimbal K'a, Escuadrón Mauna Loa, Alfonso Esparza Oteo
-![alt text](https://github.com/jsp9/reportes-inseguridad/blob/main/carpetas/data/figures/Zona Xiimbal K'a, Escuadrón Mauna Loa, Alfonso Esparza Oteo/01.png)
-![alt text](https://github.com/jsp9/reportes-inseguridad/blob/main/carpetas/data/figures/Zona Xiimbal K'a, Escuadrón Mauna Loa, Alfonso Esparza Oteo/02.png)
-![alt text](https://github.com/jsp9/reportes-inseguridad/blob/main/carpetas/data/figures/Zona Xiimbal K'a, Escuadrón Mauna Loa, Alfonso Esparza Oteo/03.png)
-![alt text](https://github.com/jsp9/reportes-inseguridad/blob/main/carpetas/data/figures/Zona Xiimbal K'a, Escuadrón Mauna Loa, Alfonso Esparza Oteo/04.png)
-![alt text](https://github.com/jsp9/reportes-inseguridad/blob/main/carpetas/data/figures/Zona Xiimbal K'a, Escuadrón Mauna Loa, Alfonso Esparza Oteo/05.png)
-![alt text](https://github.com/jsp9/reportes-inseguridad/blob/main/carpetas/data/figures/Zona Xiimbal K'a, Escuadrón Mauna Loa, Alfonso Esparza Oteo/06.png)
-![alt text](https://github.com/jsp9/reportes-inseguridad/blob/main/carpetas/data/figures/Zona Xiimbal K'a, Escuadrón Mauna Loa, Alfonso Esparza Oteo/07.png)
-![alt text](https://github.com/jsp9/reportes-inseguridad/blob/main/carpetas/data/figures/Zona Xiimbal K'a, Escuadrón Mauna Loa, Alfonso Esparza Oteo/map.png)

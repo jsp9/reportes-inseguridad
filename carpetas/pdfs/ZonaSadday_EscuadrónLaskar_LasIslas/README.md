@@ -1,0 +1,9 @@
+# ZonaSadday_EscuadrónLaskar_LasIslas
+![alt text](https://github.com/jsp9/reportes-inseguridad/blob/main/carpetas/data/figures/ZonaSadday_EscuadrónLaskar_LasIslas/01.png)
+![alt text](https://github.com/jsp9/reportes-inseguridad/blob/main/carpetas/data/figures/ZonaSadday_EscuadrónLaskar_LasIslas/02.png)
+![alt text](https://github.com/jsp9/reportes-inseguridad/blob/main/carpetas/data/figures/ZonaSadday_EscuadrónLaskar_LasIslas/03.png)
+![alt text](https://github.com/jsp9/reportes-inseguridad/blob/main/carpetas/data/figures/ZonaSadday_EscuadrónLaskar_LasIslas/04.png)
+![alt text](https://github.com/jsp9/reportes-inseguridad/blob/main/carpetas/data/figures/ZonaSadday_EscuadrónLaskar_LasIslas/05.png)
+![alt text](https://github.com/jsp9/reportes-inseguridad/blob/main/carpetas/data/figures/ZonaSadday_EscuadrónLaskar_LasIslas/06.png)
+![alt text](https://github.com/jsp9/reportes-inseguridad/blob/main/carpetas/data/figures/ZonaSadday_EscuadrónLaskar_LasIslas/07.png)
+![alt text](https://github.com/jsp9/reportes-inseguridad/blob/main/carpetas/data/figures/ZonaSadday_EscuadrónLaskar_LasIslas/map.png)

@@ -1,9 +1,0 @@
-# Zona Sadday, Cadena Izneik, La Bombilla
-![alt text](https://github.com/jsp9/reportes-inseguridad/blob/main/carpetas/data/figures/Zona Sadday, Cadena Izneik, La Bombilla/01.png)
-![alt text](https://github.com/jsp9/reportes-inseguridad/blob/main/carpetas/data/figures/Zona Sadday, Cadena Izneik, La Bombilla/02.png)
-![alt text](https://github.com/jsp9/reportes-inseguridad/blob/main/carpetas/data/figures/Zona Sadday, Cadena Izneik, La Bombilla/03.png)
-![alt text](https://github.com/jsp9/reportes-inseguridad/blob/main/carpetas/data/figures/Zona Sadday, Cadena Izneik, La Bombilla/04.png)
-![alt text](https://github.com/jsp9/reportes-inseguridad/blob/main/carpetas/data/figures/Zona Sadday, Cadena Izneik, La Bombilla/05.png)
-![alt text](https://github.com/jsp9/reportes-inseguridad/blob/main/carpetas/data/figures/Zona Sadday, Cadena Izneik, La Bombilla/06.png)
-![alt text](https://github.com/jsp9/reportes-inseguridad/blob/main/carpetas/data/figures/Zona Sadday, Cadena Izneik, La Bombilla/07.png)
-![alt text](https://github.com/jsp9/reportes-inseguridad/blob/main/carpetas/data/figures/Zona Sadday, Cadena Izneik, La Bombilla/map.png)

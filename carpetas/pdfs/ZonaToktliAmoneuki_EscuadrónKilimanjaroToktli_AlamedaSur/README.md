@@ -1,0 +1,9 @@
+# ZonaToktliAmoneuki_EscuadrónKilimanjaroToktli_AlamedaSur
+![alt text](https://github.com/jsp9/reportes-inseguridad/blob/main/carpetas/data/figures/ZonaToktliAmoneuki_EscuadrónKilimanjaroToktli_AlamedaSur/01.png)
+![alt text](https://github.com/jsp9/reportes-inseguridad/blob/main/carpetas/data/figures/ZonaToktliAmoneuki_EscuadrónKilimanjaroToktli_AlamedaSur/02.png)
+![alt text](https://github.com/jsp9/reportes-inseguridad/blob/main/carpetas/data/figures/ZonaToktliAmoneuki_EscuadrónKilimanjaroToktli_AlamedaSur/03.png)
+![alt text](https://github.com/jsp9/reportes-inseguridad/blob/main/carpetas/data/figures/ZonaToktliAmoneuki_EscuadrónKilimanjaroToktli_AlamedaSur/04.png)
+![alt text](https://github.com/jsp9/reportes-inseguridad/blob/main/carpetas/data/figures/ZonaToktliAmoneuki_EscuadrónKilimanjaroToktli_AlamedaSur/05.png)
+![alt text](https://github.com/jsp9/reportes-inseguridad/blob/main/carpetas/data/figures/ZonaToktliAmoneuki_EscuadrónKilimanjaroToktli_AlamedaSur/06.png)
+![alt text](https://github.com/jsp9/reportes-inseguridad/blob/main/carpetas/data/figures/ZonaToktliAmoneuki_EscuadrónKilimanjaroToktli_AlamedaSur/07.png)
+![alt text](https://github.com/jsp9/reportes-inseguridad/blob/main/carpetas/data/figures/ZonaToktliAmoneuki_EscuadrónKilimanjaroToktli_AlamedaSur/map.png)

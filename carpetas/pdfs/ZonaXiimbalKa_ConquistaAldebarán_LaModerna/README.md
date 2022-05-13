@@ -1,0 +1,9 @@
+# ZonaXiimbalKa_ConquistaAldebarán_LaModerna
+![alt text](https://github.com/jsp9/reportes-inseguridad/blob/main/carpetas/data/figures/ZonaXiimbalKa_ConquistaAldebarán_LaModerna/01.png)
+![alt text](https://github.com/jsp9/reportes-inseguridad/blob/main/carpetas/data/figures/ZonaXiimbalKa_ConquistaAldebarán_LaModerna/02.png)
+![alt text](https://github.com/jsp9/reportes-inseguridad/blob/main/carpetas/data/figures/ZonaXiimbalKa_ConquistaAldebarán_LaModerna/03.png)
+![alt text](https://github.com/jsp9/reportes-inseguridad/blob/main/carpetas/data/figures/ZonaXiimbalKa_ConquistaAldebarán_LaModerna/04.png)
+![alt text](https://github.com/jsp9/reportes-inseguridad/blob/main/carpetas/data/figures/ZonaXiimbalKa_ConquistaAldebarán_LaModerna/05.png)
+![alt text](https://github.com/jsp9/reportes-inseguridad/blob/main/carpetas/data/figures/ZonaXiimbalKa_ConquistaAldebarán_LaModerna/06.png)
+![alt text](https://github.com/jsp9/reportes-inseguridad/blob/main/carpetas/data/figures/ZonaXiimbalKa_ConquistaAldebarán_LaModerna/07.png)
+![alt text](https://github.com/jsp9/reportes-inseguridad/blob/main/carpetas/data/figures/ZonaXiimbalKa_ConquistaAldebarán_LaModerna/map.png)

@@ -1,9 +1,0 @@
-# Zona Ollin Anxelli, Cadena Hornavan, Ecológico Huayamilpas
-![alt text](https://github.com/jsp9/reportes-inseguridad/blob/main/carpetas/data/figures/Zona Ollin Anxelli, Cadena Hornavan, Ecológico Huayamilpas/01.png)
-![alt text](https://github.com/jsp9/reportes-inseguridad/blob/main/carpetas/data/figures/Zona Ollin Anxelli, Cadena Hornavan, Ecológico Huayamilpas/02.png)
-![alt text](https://github.com/jsp9/reportes-inseguridad/blob/main/carpetas/data/figures/Zona Ollin Anxelli, Cadena Hornavan, Ecológico Huayamilpas/03.png)
-![alt text](https://github.com/jsp9/reportes-inseguridad/blob/main/carpetas/data/figures/Zona Ollin Anxelli, Cadena Hornavan, Ecológico Huayamilpas/04.png)
-![alt text](https://github.com/jsp9/reportes-inseguridad/blob/main/carpetas/data/figures/Zona Ollin Anxelli, Cadena Hornavan, Ecológico Huayamilpas/05.png)
-![alt text](https://github.com/jsp9/reportes-inseguridad/blob/main/carpetas/data/figures/Zona Ollin Anxelli, Cadena Hornavan, Ecológico Huayamilpas/06.png)
-![alt text](https://github.com/jsp9/reportes-inseguridad/blob/main/carpetas/data/figures/Zona Ollin Anxelli, Cadena Hornavan, Ecológico Huayamilpas/07.png)
-![alt text](https://github.com/jsp9/reportes-inseguridad/blob/main/carpetas/data/figures/Zona Ollin Anxelli, Cadena Hornavan, Ecológico Huayamilpas/map.png)

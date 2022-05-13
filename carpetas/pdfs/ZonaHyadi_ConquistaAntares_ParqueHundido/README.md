@@ -1,0 +1,9 @@
+# ZonaHyadi_ConquistaAntares_ParqueHundido
+![alt text](https://github.com/jsp9/reportes-inseguridad/blob/main/carpetas/data/figures/ZonaHyadi_ConquistaAntares_ParqueHundido/01.png)
+![alt text](https://github.com/jsp9/reportes-inseguridad/blob/main/carpetas/data/figures/ZonaHyadi_ConquistaAntares_ParqueHundido/02.png)
+![alt text](https://github.com/jsp9/reportes-inseguridad/blob/main/carpetas/data/figures/ZonaHyadi_ConquistaAntares_ParqueHundido/03.png)
+![alt text](https://github.com/jsp9/reportes-inseguridad/blob/main/carpetas/data/figures/ZonaHyadi_ConquistaAntares_ParqueHundido/04.png)
+![alt text](https://github.com/jsp9/reportes-inseguridad/blob/main/carpetas/data/figures/ZonaHyadi_ConquistaAntares_ParqueHundido/05.png)
+![alt text](https://github.com/jsp9/reportes-inseguridad/blob/main/carpetas/data/figures/ZonaHyadi_ConquistaAntares_ParqueHundido/06.png)
+![alt text](https://github.com/jsp9/reportes-inseguridad/blob/main/carpetas/data/figures/ZonaHyadi_ConquistaAntares_ParqueHundido/07.png)
+![alt text](https://github.com/jsp9/reportes-inseguridad/blob/main/carpetas/data/figures/ZonaHyadi_ConquistaAntares_ParqueHundido/map.png)

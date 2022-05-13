@@ -1,9 +1,0 @@
-# Zona Ki'ich Kelem Ajal, Escuadrón Brandaris, Las Islas
-![alt text](https://github.com/jsp9/reportes-inseguridad/blob/main/carpetas/data/figures/Zona Ki'ich Kelem Ajal, Escuadrón Brandaris, Las Islas/01.png)
-![alt text](https://github.com/jsp9/reportes-inseguridad/blob/main/carpetas/data/figures/Zona Ki'ich Kelem Ajal, Escuadrón Brandaris, Las Islas/02.png)
-![alt text](https://github.com/jsp9/reportes-inseguridad/blob/main/carpetas/data/figures/Zona Ki'ich Kelem Ajal, Escuadrón Brandaris, Las Islas/03.png)
-![alt text](https://github.com/jsp9/reportes-inseguridad/blob/main/carpetas/data/figures/Zona Ki'ich Kelem Ajal, Escuadrón Brandaris, Las Islas/04.png)
-![alt text](https://github.com/jsp9/reportes-inseguridad/blob/main/carpetas/data/figures/Zona Ki'ich Kelem Ajal, Escuadrón Brandaris, Las Islas/05.png)
-![alt text](https://github.com/jsp9/reportes-inseguridad/blob/main/carpetas/data/figures/Zona Ki'ich Kelem Ajal, Escuadrón Brandaris, Las Islas/06.png)
-![alt text](https://github.com/jsp9/reportes-inseguridad/blob/main/carpetas/data/figures/Zona Ki'ich Kelem Ajal, Escuadrón Brandaris, Las Islas/07.png)
-![alt text](https://github.com/jsp9/reportes-inseguridad/blob/main/carpetas/data/figures/Zona Ki'ich Kelem Ajal, Escuadrón Brandaris, Las Islas/map.png)

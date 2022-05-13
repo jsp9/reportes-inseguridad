@@ -1,9 +1,0 @@
-# Zona Hyadi, Conquista Antares,  Parque Hundido
-![alt text](https://github.com/jsp9/reportes-inseguridad/blob/main/carpetas/data/figures/Zona Hyadi, Conquista Antares,  Parque Hundido/01.png)
-![alt text](https://github.com/jsp9/reportes-inseguridad/blob/main/carpetas/data/figures/Zona Hyadi, Conquista Antares,  Parque Hundido/02.png)
-![alt text](https://github.com/jsp9/reportes-inseguridad/blob/main/carpetas/data/figures/Zona Hyadi, Conquista Antares,  Parque Hundido/03.png)
-![alt text](https://github.com/jsp9/reportes-inseguridad/blob/main/carpetas/data/figures/Zona Hyadi, Conquista Antares,  Parque Hundido/04.png)
-![alt text](https://github.com/jsp9/reportes-inseguridad/blob/main/carpetas/data/figures/Zona Hyadi, Conquista Antares,  Parque Hundido/05.png)
-![alt text](https://github.com/jsp9/reportes-inseguridad/blob/main/carpetas/data/figures/Zona Hyadi, Conquista Antares,  Parque Hundido/06.png)
-![alt text](https://github.com/jsp9/reportes-inseguridad/blob/main/carpetas/data/figures/Zona Hyadi, Conquista Antares,  Parque Hundido/07.png)
-![alt text](https://github.com/jsp9/reportes-inseguridad/blob/main/carpetas/data/figures/Zona Hyadi, Conquista Antares,  Parque Hundido/map.png)

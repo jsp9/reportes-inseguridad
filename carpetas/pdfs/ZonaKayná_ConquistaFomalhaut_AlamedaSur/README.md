@@ -1,0 +1,9 @@
+# ZonaKayná_ConquistaFomalhaut_AlamedaSur
+![alt text](https://github.com/jsp9/reportes-inseguridad/blob/main/carpetas/data/figures/ZonaKayná_ConquistaFomalhaut_AlamedaSur/01.png)
+![alt text](https://github.com/jsp9/reportes-inseguridad/blob/main/carpetas/data/figures/ZonaKayná_ConquistaFomalhaut_AlamedaSur/02.png)
+![alt text](https://github.com/jsp9/reportes-inseguridad/blob/main/carpetas/data/figures/ZonaKayná_ConquistaFomalhaut_AlamedaSur/03.png)
+![alt text](https://github.com/jsp9/reportes-inseguridad/blob/main/carpetas/data/figures/ZonaKayná_ConquistaFomalhaut_AlamedaSur/04.png)
+![alt text](https://github.com/jsp9/reportes-inseguridad/blob/main/carpetas/data/figures/ZonaKayná_ConquistaFomalhaut_AlamedaSur/05.png)
+![alt text](https://github.com/jsp9/reportes-inseguridad/blob/main/carpetas/data/figures/ZonaKayná_ConquistaFomalhaut_AlamedaSur/06.png)
+![alt text](https://github.com/jsp9/reportes-inseguridad/blob/main/carpetas/data/figures/ZonaKayná_ConquistaFomalhaut_AlamedaSur/07.png)
+![alt text](https://github.com/jsp9/reportes-inseguridad/blob/main/carpetas/data/figures/ZonaKayná_ConquistaFomalhaut_AlamedaSur/map.png)

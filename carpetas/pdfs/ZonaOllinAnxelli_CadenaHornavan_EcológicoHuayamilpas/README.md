@@ -1,0 +1,9 @@
+# ZonaOllinAnxelli_CadenaHornavan_EcológicoHuayamilpas
+![alt text](https://github.com/jsp9/reportes-inseguridad/blob/main/carpetas/data/figures/ZonaOllinAnxelli_CadenaHornavan_EcológicoHuayamilpas/01.png)
+![alt text](https://github.com/jsp9/reportes-inseguridad/blob/main/carpetas/data/figures/ZonaOllinAnxelli_CadenaHornavan_EcológicoHuayamilpas/02.png)
+![alt text](https://github.com/jsp9/reportes-inseguridad/blob/main/carpetas/data/figures/ZonaOllinAnxelli_CadenaHornavan_EcológicoHuayamilpas/03.png)
+![alt text](https://github.com/jsp9/reportes-inseguridad/blob/main/carpetas/data/figures/ZonaOllinAnxelli_CadenaHornavan_EcológicoHuayamilpas/04.png)
+![alt text](https://github.com/jsp9/reportes-inseguridad/blob/main/carpetas/data/figures/ZonaOllinAnxelli_CadenaHornavan_EcológicoHuayamilpas/05.png)
+![alt text](https://github.com/jsp9/reportes-inseguridad/blob/main/carpetas/data/figures/ZonaOllinAnxelli_CadenaHornavan_EcológicoHuayamilpas/06.png)
+![alt text](https://github.com/jsp9/reportes-inseguridad/blob/main/carpetas/data/figures/ZonaOllinAnxelli_CadenaHornavan_EcológicoHuayamilpas/07.png)
+![alt text](https://github.com/jsp9/reportes-inseguridad/blob/main/carpetas/data/figures/ZonaOllinAnxelli_CadenaHornavan_EcológicoHuayamilpas/map.png)

@@ -1,0 +1,9 @@
+# ZonaKiichKelemAjal_ConquistaPherkad_CdJardín
+![alt text](https://github.com/jsp9/reportes-inseguridad/blob/main/carpetas/data/figures/ZonaKiichKelemAjal_ConquistaPherkad_CdJardín/01.png)
+![alt text](https://github.com/jsp9/reportes-inseguridad/blob/main/carpetas/data/figures/ZonaKiichKelemAjal_ConquistaPherkad_CdJardín/02.png)
+![alt text](https://github.com/jsp9/reportes-inseguridad/blob/main/carpetas/data/figures/ZonaKiichKelemAjal_ConquistaPherkad_CdJardín/03.png)
+![alt text](https://github.com/jsp9/reportes-inseguridad/blob/main/carpetas/data/figures/ZonaKiichKelemAjal_ConquistaPherkad_CdJardín/04.png)
+![alt text](https://github.com/jsp9/reportes-inseguridad/blob/main/carpetas/data/figures/ZonaKiichKelemAjal_ConquistaPherkad_CdJardín/05.png)
+![alt text](https://github.com/jsp9/reportes-inseguridad/blob/main/carpetas/data/figures/ZonaKiichKelemAjal_ConquistaPherkad_CdJardín/06.png)
+![alt text](https://github.com/jsp9/reportes-inseguridad/blob/main/carpetas/data/figures/ZonaKiichKelemAjal_ConquistaPherkad_CdJardín/07.png)
+![alt text](https://github.com/jsp9/reportes-inseguridad/blob/main/carpetas/data/figures/ZonaKiichKelemAjal_ConquistaPherkad_CdJardín/map.png)

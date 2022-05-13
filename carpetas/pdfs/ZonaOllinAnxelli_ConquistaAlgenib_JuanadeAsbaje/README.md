@@ -1,0 +1,9 @@
+# ZonaOllinAnxelli_ConquistaAlgenib_JuanadeAsbaje
+![alt text](https://github.com/jsp9/reportes-inseguridad/blob/main/carpetas/data/figures/ZonaOllinAnxelli_ConquistaAlgenib_JuanadeAsbaje/01.png)
+![alt text](https://github.com/jsp9/reportes-inseguridad/blob/main/carpetas/data/figures/ZonaOllinAnxelli_ConquistaAlgenib_JuanadeAsbaje/02.png)
+![alt text](https://github.com/jsp9/reportes-inseguridad/blob/main/carpetas/data/figures/ZonaOllinAnxelli_ConquistaAlgenib_JuanadeAsbaje/03.png)
+![alt text](https://github.com/jsp9/reportes-inseguridad/blob/main/carpetas/data/figures/ZonaOllinAnxelli_ConquistaAlgenib_JuanadeAsbaje/04.png)
+![alt text](https://github.com/jsp9/reportes-inseguridad/blob/main/carpetas/data/figures/ZonaOllinAnxelli_ConquistaAlgenib_JuanadeAsbaje/05.png)
+![alt text](https://github.com/jsp9/reportes-inseguridad/blob/main/carpetas/data/figures/ZonaOllinAnxelli_ConquistaAlgenib_JuanadeAsbaje/06.png)
+![alt text](https://github.com/jsp9/reportes-inseguridad/blob/main/carpetas/data/figures/ZonaOllinAnxelli_ConquistaAlgenib_JuanadeAsbaje/07.png)
+![alt text](https://github.com/jsp9/reportes-inseguridad/blob/main/carpetas/data/figures/ZonaOllinAnxelli_ConquistaAlgenib_JuanadeAsbaje/map.png)

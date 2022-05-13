@@ -1,0 +1,9 @@
+# ZonaSadday_CadenaIzneik_LaBombilla
+![alt text](https://github.com/jsp9/reportes-inseguridad/blob/main/carpetas/data/figures/ZonaSadday_CadenaIzneik_LaBombilla/01.png)
+![alt text](https://github.com/jsp9/reportes-inseguridad/blob/main/carpetas/data/figures/ZonaSadday_CadenaIzneik_LaBombilla/02.png)
+![alt text](https://github.com/jsp9/reportes-inseguridad/blob/main/carpetas/data/figures/ZonaSadday_CadenaIzneik_LaBombilla/03.png)
+![alt text](https://github.com/jsp9/reportes-inseguridad/blob/main/carpetas/data/figures/ZonaSadday_CadenaIzneik_LaBombilla/04.png)
+![alt text](https://github.com/jsp9/reportes-inseguridad/blob/main/carpetas/data/figures/ZonaSadday_CadenaIzneik_LaBombilla/05.png)
+![alt text](https://github.com/jsp9/reportes-inseguridad/blob/main/carpetas/data/figures/ZonaSadday_CadenaIzneik_LaBombilla/06.png)
+![alt text](https://github.com/jsp9/reportes-inseguridad/blob/main/carpetas/data/figures/ZonaSadday_CadenaIzneik_LaBombilla/07.png)
+![alt text](https://github.com/jsp9/reportes-inseguridad/blob/main/carpetas/data/figures/ZonaSadday_CadenaIzneik_LaBombilla/map.png)

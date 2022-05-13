@@ -1,0 +1,9 @@
+# ZonaHyadi_JuvenilInlakechHalaKen_PCM
+![alt text](https://github.com/jsp9/reportes-inseguridad/blob/main/carpetas/data/figures/ZonaHyadi_JuvenilInlakechHalaKen_PCM/01.png)
+![alt text](https://github.com/jsp9/reportes-inseguridad/blob/main/carpetas/data/figures/ZonaHyadi_JuvenilInlakechHalaKen_PCM/02.png)
+![alt text](https://github.com/jsp9/reportes-inseguridad/blob/main/carpetas/data/figures/ZonaHyadi_JuvenilInlakechHalaKen_PCM/03.png)
+![alt text](https://github.com/jsp9/reportes-inseguridad/blob/main/carpetas/data/figures/ZonaHyadi_JuvenilInlakechHalaKen_PCM/04.png)
+![alt text](https://github.com/jsp9/reportes-inseguridad/blob/main/carpetas/data/figures/ZonaHyadi_JuvenilInlakechHalaKen_PCM/05.png)
+![alt text](https://github.com/jsp9/reportes-inseguridad/blob/main/carpetas/data/figures/ZonaHyadi_JuvenilInlakechHalaKen_PCM/06.png)
+![alt text](https://github.com/jsp9/reportes-inseguridad/blob/main/carpetas/data/figures/ZonaHyadi_JuvenilInlakechHalaKen_PCM/07.png)
+![alt text](https://github.com/jsp9/reportes-inseguridad/blob/main/carpetas/data/figures/ZonaHyadi_JuvenilInlakechHalaKen_PCM/map.png)

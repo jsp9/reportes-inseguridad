@@ -1,0 +1,9 @@
+# ZonaSadday_ConquistaRas-Algethi_MurodelaPaz
+![alt text](https://github.com/jsp9/reportes-inseguridad/blob/main/carpetas/data/figures/ZonaSadday_ConquistaRas-Algethi_MurodelaPaz/01.png)
+![alt text](https://github.com/jsp9/reportes-inseguridad/blob/main/carpetas/data/figures/ZonaSadday_ConquistaRas-Algethi_MurodelaPaz/02.png)
+![alt text](https://github.com/jsp9/reportes-inseguridad/blob/main/carpetas/data/figures/ZonaSadday_ConquistaRas-Algethi_MurodelaPaz/03.png)
+![alt text](https://github.com/jsp9/reportes-inseguridad/blob/main/carpetas/data/figures/ZonaSadday_ConquistaRas-Algethi_MurodelaPaz/04.png)
+![alt text](https://github.com/jsp9/reportes-inseguridad/blob/main/carpetas/data/figures/ZonaSadday_ConquistaRas-Algethi_MurodelaPaz/05.png)
+![alt text](https://github.com/jsp9/reportes-inseguridad/blob/main/carpetas/data/figures/ZonaSadday_ConquistaRas-Algethi_MurodelaPaz/06.png)
+![alt text](https://github.com/jsp9/reportes-inseguridad/blob/main/carpetas/data/figures/ZonaSadday_ConquistaRas-Algethi_MurodelaPaz/07.png)
+![alt text](https://github.com/jsp9/reportes-inseguridad/blob/main/carpetas/data/figures/ZonaSadday_ConquistaRas-Algethi_MurodelaPaz/map.png)

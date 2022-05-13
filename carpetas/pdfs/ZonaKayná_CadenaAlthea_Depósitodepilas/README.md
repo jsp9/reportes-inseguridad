@@ -1,0 +1,9 @@
+# ZonaKayná_CadenaAlthea_Depósitodepilas
+![alt text](https://github.com/jsp9/reportes-inseguridad/blob/main/carpetas/data/figures/ZonaKayná_CadenaAlthea_Depósitodepilas/01.png)
+![alt text](https://github.com/jsp9/reportes-inseguridad/blob/main/carpetas/data/figures/ZonaKayná_CadenaAlthea_Depósitodepilas/02.png)
+![alt text](https://github.com/jsp9/reportes-inseguridad/blob/main/carpetas/data/figures/ZonaKayná_CadenaAlthea_Depósitodepilas/03.png)
+![alt text](https://github.com/jsp9/reportes-inseguridad/blob/main/carpetas/data/figures/ZonaKayná_CadenaAlthea_Depósitodepilas/04.png)
+![alt text](https://github.com/jsp9/reportes-inseguridad/blob/main/carpetas/data/figures/ZonaKayná_CadenaAlthea_Depósitodepilas/05.png)
+![alt text](https://github.com/jsp9/reportes-inseguridad/blob/main/carpetas/data/figures/ZonaKayná_CadenaAlthea_Depósitodepilas/06.png)
+![alt text](https://github.com/jsp9/reportes-inseguridad/blob/main/carpetas/data/figures/ZonaKayná_CadenaAlthea_Depósitodepilas/07.png)
+![alt text](https://github.com/jsp9/reportes-inseguridad/blob/main/carpetas/data/figures/ZonaKayná_CadenaAlthea_Depósitodepilas/map.png)

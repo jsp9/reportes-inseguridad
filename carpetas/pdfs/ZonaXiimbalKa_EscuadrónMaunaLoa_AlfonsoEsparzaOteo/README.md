@@ -1,0 +1,9 @@
+# ZonaXiimbalKa_EscuadrónMaunaLoa_AlfonsoEsparzaOteo
+![alt text](https://github.com/jsp9/reportes-inseguridad/blob/main/carpetas/data/figures/ZonaXiimbalKa_EscuadrónMaunaLoa_AlfonsoEsparzaOteo/01.png)
+![alt text](https://github.com/jsp9/reportes-inseguridad/blob/main/carpetas/data/figures/ZonaXiimbalKa_EscuadrónMaunaLoa_AlfonsoEsparzaOteo/02.png)
+![alt text](https://github.com/jsp9/reportes-inseguridad/blob/main/carpetas/data/figures/ZonaXiimbalKa_EscuadrónMaunaLoa_AlfonsoEsparzaOteo/03.png)
+![alt text](https://github.com/jsp9/reportes-inseguridad/blob/main/carpetas/data/figures/ZonaXiimbalKa_EscuadrónMaunaLoa_AlfonsoEsparzaOteo/04.png)
+![alt text](https://github.com/jsp9/reportes-inseguridad/blob/main/carpetas/data/figures/ZonaXiimbalKa_EscuadrónMaunaLoa_AlfonsoEsparzaOteo/05.png)
+![alt text](https://github.com/jsp9/reportes-inseguridad/blob/main/carpetas/data/figures/ZonaXiimbalKa_EscuadrónMaunaLoa_AlfonsoEsparzaOteo/06.png)
+![alt text](https://github.com/jsp9/reportes-inseguridad/blob/main/carpetas/data/figures/ZonaXiimbalKa_EscuadrónMaunaLoa_AlfonsoEsparzaOteo/07.png)
+![alt text](https://github.com/jsp9/reportes-inseguridad/blob/main/carpetas/data/figures/ZonaXiimbalKa_EscuadrónMaunaLoa_AlfonsoEsparzaOteo/map.png)

@@ -1,0 +1,9 @@
+# ZonaKiichKelemAjal_EscuadrónBrandaris_LasIslas
+![alt text](https://github.com/jsp9/reportes-inseguridad/blob/main/carpetas/data/figures/ZonaKiichKelemAjal_EscuadrónBrandaris_LasIslas/01.png)
+![alt text](https://github.com/jsp9/reportes-inseguridad/blob/main/carpetas/data/figures/ZonaKiichKelemAjal_EscuadrónBrandaris_LasIslas/02.png)
+![alt text](https://github.com/jsp9/reportes-inseguridad/blob/main/carpetas/data/figures/ZonaKiichKelemAjal_EscuadrónBrandaris_LasIslas/03.png)
+![alt text](https://github.com/jsp9/reportes-inseguridad/blob/main/carpetas/data/figures/ZonaKiichKelemAjal_EscuadrónBrandaris_LasIslas/04.png)
+![alt text](https://github.com/jsp9/reportes-inseguridad/blob/main/carpetas/data/figures/ZonaKiichKelemAjal_EscuadrónBrandaris_LasIslas/05.png)
+![alt text](https://github.com/jsp9/reportes-inseguridad/blob/main/carpetas/data/figures/ZonaKiichKelemAjal_EscuadrónBrandaris_LasIslas/06.png)
+![alt text](https://github.com/jsp9/reportes-inseguridad/blob/main/carpetas/data/figures/ZonaKiichKelemAjal_EscuadrónBrandaris_LasIslas/07.png)
+![alt text](https://github.com/jsp9/reportes-inseguridad/blob/main/carpetas/data/figures/ZonaKiichKelemAjal_EscuadrónBrandaris_LasIslas/map.png)

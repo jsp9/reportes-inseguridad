@@ -1,9 +1,0 @@
-# Zona Kayná, Cadena Althea, Depósito de pilas
-![alt text](https://github.com/jsp9/reportes-inseguridad/blob/main/carpetas/data/figures/Zona Kayná, Cadena Althea, Depósito de pilas/01.png)
-![alt text](https://github.com/jsp9/reportes-inseguridad/blob/main/carpetas/data/figures/Zona Kayná, Cadena Althea, Depósito de pilas/02.png)
-![alt text](https://github.com/jsp9/reportes-inseguridad/blob/main/carpetas/data/figures/Zona Kayná, Cadena Althea, Depósito de pilas/03.png)
-![alt text](https://github.com/jsp9/reportes-inseguridad/blob/main/carpetas/data/figures/Zona Kayná, Cadena Althea, Depósito de pilas/04.png)
-![alt text](https://github.com/jsp9/reportes-inseguridad/blob/main/carpetas/data/figures/Zona Kayná, Cadena Althea, Depósito de pilas/05.png)
-![alt text](https://github.com/jsp9/reportes-inseguridad/blob/main/carpetas/data/figures/Zona Kayná, Cadena Althea, Depósito de pilas/06.png)
-![alt text](https://github.com/jsp9/reportes-inseguridad/blob/main/carpetas/data/figures/Zona Kayná, Cadena Althea, Depósito de pilas/07.png)
-![alt text](https://github.com/jsp9/reportes-inseguridad/blob/main/carpetas/data/figures/Zona Kayná, Cadena Althea, Depósito de pilas/map.png)

@@ -1,9 +1,0 @@
-# Zona Kayná, Juvenil Ararat, Alameda Sur
-![alt text](https://github.com/jsp9/reportes-inseguridad/blob/main/carpetas/data/figures/Zona Kayná, Juvenil Ararat, Alameda Sur/01.png)
-![alt text](https://github.com/jsp9/reportes-inseguridad/blob/main/carpetas/data/figures/Zona Kayná, Juvenil Ararat, Alameda Sur/02.png)
-![alt text](https://github.com/jsp9/reportes-inseguridad/blob/main/carpetas/data/figures/Zona Kayná, Juvenil Ararat, Alameda Sur/03.png)
-![alt text](https://github.com/jsp9/reportes-inseguridad/blob/main/carpetas/data/figures/Zona Kayná, Juvenil Ararat, Alameda Sur/04.png)
-![alt text](https://github.com/jsp9/reportes-inseguridad/blob/main/carpetas/data/figures/Zona Kayná, Juvenil Ararat, Alameda Sur/05.png)
-![alt text](https://github.com/jsp9/reportes-inseguridad/blob/main/carpetas/data/figures/Zona Kayná, Juvenil Ararat, Alameda Sur/06.png)
-![alt text](https://github.com/jsp9/reportes-inseguridad/blob/main/carpetas/data/figures/Zona Kayná, Juvenil Ararat, Alameda Sur/07.png)
-![alt text](https://github.com/jsp9/reportes-inseguridad/blob/main/carpetas/data/figures/Zona Kayná, Juvenil Ararat, Alameda Sur/map.png)

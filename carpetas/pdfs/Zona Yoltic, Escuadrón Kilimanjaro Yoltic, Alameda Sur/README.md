@@ -1,9 +1,0 @@
-# Zona Yoltic, Escuadrón Kilimanjaro Yoltic, Alameda Sur
-![alt text](https://github.com/jsp9/reportes-inseguridad/blob/main/carpetas/data/figures/Zona Yoltic, Escuadrón Kilimanjaro Yoltic, Alameda Sur/01.png)
-![alt text](https://github.com/jsp9/reportes-inseguridad/blob/main/carpetas/data/figures/Zona Yoltic, Escuadrón Kilimanjaro Yoltic, Alameda Sur/02.png)
-![alt text](https://github.com/jsp9/reportes-inseguridad/blob/main/carpetas/data/figures/Zona Yoltic, Escuadrón Kilimanjaro Yoltic, Alameda Sur/03.png)
-![alt text](https://github.com/jsp9/reportes-inseguridad/blob/main/carpetas/data/figures/Zona Yoltic, Escuadrón Kilimanjaro Yoltic, Alameda Sur/04.png)
-![alt text](https://github.com/jsp9/reportes-inseguridad/blob/main/carpetas/data/figures/Zona Yoltic, Escuadrón Kilimanjaro Yoltic, Alameda Sur/05.png)
-![alt text](https://github.com/jsp9/reportes-inseguridad/blob/main/carpetas/data/figures/Zona Yoltic, Escuadrón Kilimanjaro Yoltic, Alameda Sur/06.png)
-![alt text](https://github.com/jsp9/reportes-inseguridad/blob/main/carpetas/data/figures/Zona Yoltic, Escuadrón Kilimanjaro Yoltic, Alameda Sur/07.png)
-![alt text](https://github.com/jsp9/reportes-inseguridad/blob/main/carpetas/data/figures/Zona Yoltic, Escuadrón Kilimanjaro Yoltic, Alameda Sur/map.png)

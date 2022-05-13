@@ -1,9 +1,0 @@
-# Zona Hyadi, Cadena Eyldon, Parque San Lorenzo
-![alt text](https://github.com/jsp9/reportes-inseguridad/blob/main/carpetas/data/figures/Zona Hyadi, Cadena Eyldon, Parque San Lorenzo/01.png)
-![alt text](https://github.com/jsp9/reportes-inseguridad/blob/main/carpetas/data/figures/Zona Hyadi, Cadena Eyldon, Parque San Lorenzo/02.png)
-![alt text](https://github.com/jsp9/reportes-inseguridad/blob/main/carpetas/data/figures/Zona Hyadi, Cadena Eyldon, Parque San Lorenzo/03.png)
-![alt text](https://github.com/jsp9/reportes-inseguridad/blob/main/carpetas/data/figures/Zona Hyadi, Cadena Eyldon, Parque San Lorenzo/04.png)
-![alt text](https://github.com/jsp9/reportes-inseguridad/blob/main/carpetas/data/figures/Zona Hyadi, Cadena Eyldon, Parque San Lorenzo/05.png)
-![alt text](https://github.com/jsp9/reportes-inseguridad/blob/main/carpetas/data/figures/Zona Hyadi, Cadena Eyldon, Parque San Lorenzo/06.png)
-![alt text](https://github.com/jsp9/reportes-inseguridad/blob/main/carpetas/data/figures/Zona Hyadi, Cadena Eyldon, Parque San Lorenzo/07.png)
-![alt text](https://github.com/jsp9/reportes-inseguridad/blob/main/carpetas/data/figures/Zona Hyadi, Cadena Eyldon, Parque San Lorenzo/map.png)

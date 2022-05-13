@@ -1,9 +1,0 @@
-# Zona Ollin Anxelli, Conquista Algenib, Juana de Asbaje
-![alt text](https://github.com/jsp9/reportes-inseguridad/blob/main/carpetas/data/figures/Zona Ollin Anxelli, Conquista Algenib, Juana de Asbaje/01.png)
-![alt text](https://github.com/jsp9/reportes-inseguridad/blob/main/carpetas/data/figures/Zona Ollin Anxelli, Conquista Algenib, Juana de Asbaje/02.png)
-![alt text](https://github.com/jsp9/reportes-inseguridad/blob/main/carpetas/data/figures/Zona Ollin Anxelli, Conquista Algenib, Juana de Asbaje/03.png)
-![alt text](https://github.com/jsp9/reportes-inseguridad/blob/main/carpetas/data/figures/Zona Ollin Anxelli, Conquista Algenib, Juana de Asbaje/04.png)
-![alt text](https://github.com/jsp9/reportes-inseguridad/blob/main/carpetas/data/figures/Zona Ollin Anxelli, Conquista Algenib, Juana de Asbaje/05.png)
-![alt text](https://github.com/jsp9/reportes-inseguridad/blob/main/carpetas/data/figures/Zona Ollin Anxelli, Conquista Algenib, Juana de Asbaje/06.png)
-![alt text](https://github.com/jsp9/reportes-inseguridad/blob/main/carpetas/data/figures/Zona Ollin Anxelli, Conquista Algenib, Juana de Asbaje/07.png)
-![alt text](https://github.com/jsp9/reportes-inseguridad/blob/main/carpetas/data/figures/Zona Ollin Anxelli, Conquista Algenib, Juana de Asbaje/map.png)
