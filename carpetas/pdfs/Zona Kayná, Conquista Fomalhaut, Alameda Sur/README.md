@@ -1,0 +1,9 @@
+# Zona Kayná, Conquista Fomalhaut, Alameda Sur
+![alt text](https://github.com/jsp9/reportes-inseguridad/blob/main/carpetas/data/figures/Zona Kayná, Conquista Fomalhaut, Alameda Sur/01.png)
+![alt text](https://github.com/jsp9/reportes-inseguridad/blob/main/carpetas/data/figures/Zona Kayná, Conquista Fomalhaut, Alameda Sur/02.png)
+![alt text](https://github.com/jsp9/reportes-inseguridad/blob/main/carpetas/data/figures/Zona Kayná, Conquista Fomalhaut, Alameda Sur/03.png)
+![alt text](https://github.com/jsp9/reportes-inseguridad/blob/main/carpetas/data/figures/Zona Kayná, Conquista Fomalhaut, Alameda Sur/04.png)
+![alt text](https://github.com/jsp9/reportes-inseguridad/blob/main/carpetas/data/figures/Zona Kayná, Conquista Fomalhaut, Alameda Sur/05.png)
+![alt text](https://github.com/jsp9/reportes-inseguridad/blob/main/carpetas/data/figures/Zona Kayná, Conquista Fomalhaut, Alameda Sur/06.png)
+![alt text](https://github.com/jsp9/reportes-inseguridad/blob/main/carpetas/data/figures/Zona Kayná, Conquista Fomalhaut, Alameda Sur/07.png)
+![alt text](https://github.com/jsp9/reportes-inseguridad/blob/main/carpetas/data/figures/Zona Kayná, Conquista Fomalhaut, Alameda Sur/map.png)

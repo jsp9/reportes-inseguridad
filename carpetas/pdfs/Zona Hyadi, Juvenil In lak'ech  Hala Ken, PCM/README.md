@@ -1,0 +1,9 @@
+# Zona Hyadi, Juvenil In lak'ech  Hala Ken, PCM
+![alt text](https://github.com/jsp9/reportes-inseguridad/blob/main/carpetas/data/figures/Zona Hyadi, Juvenil In lak'ech  Hala Ken, PCM/01.png)
+![alt text](https://github.com/jsp9/reportes-inseguridad/blob/main/carpetas/data/figures/Zona Hyadi, Juvenil In lak'ech  Hala Ken, PCM/02.png)
+![alt text](https://github.com/jsp9/reportes-inseguridad/blob/main/carpetas/data/figures/Zona Hyadi, Juvenil In lak'ech  Hala Ken, PCM/03.png)
+![alt text](https://github.com/jsp9/reportes-inseguridad/blob/main/carpetas/data/figures/Zona Hyadi, Juvenil In lak'ech  Hala Ken, PCM/04.png)
+![alt text](https://github.com/jsp9/reportes-inseguridad/blob/main/carpetas/data/figures/Zona Hyadi, Juvenil In lak'ech  Hala Ken, PCM/05.png)
+![alt text](https://github.com/jsp9/reportes-inseguridad/blob/main/carpetas/data/figures/Zona Hyadi, Juvenil In lak'ech  Hala Ken, PCM/06.png)
+![alt text](https://github.com/jsp9/reportes-inseguridad/blob/main/carpetas/data/figures/Zona Hyadi, Juvenil In lak'ech  Hala Ken, PCM/07.png)
+![alt text](https://github.com/jsp9/reportes-inseguridad/blob/main/carpetas/data/figures/Zona Hyadi, Juvenil In lak'ech  Hala Ken, PCM/map.png)

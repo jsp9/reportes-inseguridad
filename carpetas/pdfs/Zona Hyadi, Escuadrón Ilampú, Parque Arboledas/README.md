@@ -1,0 +1,9 @@
+# Zona Hyadi, Escuadrón Ilampú, Parque Arboledas
+![alt text](https://github.com/jsp9/reportes-inseguridad/blob/main/carpetas/data/figures/Zona Hyadi, Escuadrón Ilampú, Parque Arboledas/01.png)
+![alt text](https://github.com/jsp9/reportes-inseguridad/blob/main/carpetas/data/figures/Zona Hyadi, Escuadrón Ilampú, Parque Arboledas/02.png)
+![alt text](https://github.com/jsp9/reportes-inseguridad/blob/main/carpetas/data/figures/Zona Hyadi, Escuadrón Ilampú, Parque Arboledas/03.png)
+![alt text](https://github.com/jsp9/reportes-inseguridad/blob/main/carpetas/data/figures/Zona Hyadi, Escuadrón Ilampú, Parque Arboledas/04.png)
+![alt text](https://github.com/jsp9/reportes-inseguridad/blob/main/carpetas/data/figures/Zona Hyadi, Escuadrón Ilampú, Parque Arboledas/05.png)
+![alt text](https://github.com/jsp9/reportes-inseguridad/blob/main/carpetas/data/figures/Zona Hyadi, Escuadrón Ilampú, Parque Arboledas/06.png)
+![alt text](https://github.com/jsp9/reportes-inseguridad/blob/main/carpetas/data/figures/Zona Hyadi, Escuadrón Ilampú, Parque Arboledas/07.png)
+![alt text](https://github.com/jsp9/reportes-inseguridad/blob/main/carpetas/data/figures/Zona Hyadi, Escuadrón Ilampú, Parque Arboledas/map.png)

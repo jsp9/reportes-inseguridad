@@ -1,0 +1,9 @@
+# Zona Hyadi, Conquista Deneb, Las Américas
+![alt text](https://github.com/jsp9/reportes-inseguridad/blob/main/carpetas/data/figures/Zona Hyadi, Conquista Deneb, Las Américas/01.png)
+![alt text](https://github.com/jsp9/reportes-inseguridad/blob/main/carpetas/data/figures/Zona Hyadi, Conquista Deneb, Las Américas/02.png)
+![alt text](https://github.com/jsp9/reportes-inseguridad/blob/main/carpetas/data/figures/Zona Hyadi, Conquista Deneb, Las Américas/03.png)
+![alt text](https://github.com/jsp9/reportes-inseguridad/blob/main/carpetas/data/figures/Zona Hyadi, Conquista Deneb, Las Américas/04.png)
+![alt text](https://github.com/jsp9/reportes-inseguridad/blob/main/carpetas/data/figures/Zona Hyadi, Conquista Deneb, Las Américas/05.png)
+![alt text](https://github.com/jsp9/reportes-inseguridad/blob/main/carpetas/data/figures/Zona Hyadi, Conquista Deneb, Las Américas/06.png)
+![alt text](https://github.com/jsp9/reportes-inseguridad/blob/main/carpetas/data/figures/Zona Hyadi, Conquista Deneb, Las Américas/07.png)
+![alt text](https://github.com/jsp9/reportes-inseguridad/blob/main/carpetas/data/figures/Zona Hyadi, Conquista Deneb, Las Américas/map.png)

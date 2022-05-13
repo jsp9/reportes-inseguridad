@@ -1,8 +1,0 @@
-![alt text](https://github.com/jsp9/reportes-inseguridad/blob/main/carpetas/data/figures/lynyi/01.png)
-![alt text](https://github.com/jsp9/reportes-inseguridad/blob/main/carpetas/data/figures/lynyi/02.png)
-![alt text](https://github.com/jsp9/reportes-inseguridad/blob/main/carpetas/data/figures/lynyi/03.png)
-![alt text](https://github.com/jsp9/reportes-inseguridad/blob/main/carpetas/data/figures/lynyi/04.png)
-![alt text](https://github.com/jsp9/reportes-inseguridad/blob/main/carpetas/data/figures/lynyi/05.png)
-![alt text](https://github.com/jsp9/reportes-inseguridad/blob/main/carpetas/data/figures/lynyi/06.png)
-![alt text](https://github.com/jsp9/reportes-inseguridad/blob/main/carpetas/data/figures/lynyi/07.png)
-![alt text](https://github.com/jsp9/reportes-inseguridad/blob/main/carpetas/data/figures/lynyi/map.png)

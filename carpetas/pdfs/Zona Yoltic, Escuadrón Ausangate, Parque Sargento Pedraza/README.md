@@ -1,0 +1,9 @@
+# Zona Yoltic, Escuadrón Ausangate, Parque Sargento Pedraza
+![alt text](https://github.com/jsp9/reportes-inseguridad/blob/main/carpetas/data/figures/Zona Yoltic, Escuadrón Ausangate, Parque Sargento Pedraza/01.png)
+![alt text](https://github.com/jsp9/reportes-inseguridad/blob/main/carpetas/data/figures/Zona Yoltic, Escuadrón Ausangate, Parque Sargento Pedraza/02.png)
+![alt text](https://github.com/jsp9/reportes-inseguridad/blob/main/carpetas/data/figures/Zona Yoltic, Escuadrón Ausangate, Parque Sargento Pedraza/03.png)
+![alt text](https://github.com/jsp9/reportes-inseguridad/blob/main/carpetas/data/figures/Zona Yoltic, Escuadrón Ausangate, Parque Sargento Pedraza/04.png)
+![alt text](https://github.com/jsp9/reportes-inseguridad/blob/main/carpetas/data/figures/Zona Yoltic, Escuadrón Ausangate, Parque Sargento Pedraza/05.png)
+![alt text](https://github.com/jsp9/reportes-inseguridad/blob/main/carpetas/data/figures/Zona Yoltic, Escuadrón Ausangate, Parque Sargento Pedraza/06.png)
+![alt text](https://github.com/jsp9/reportes-inseguridad/blob/main/carpetas/data/figures/Zona Yoltic, Escuadrón Ausangate, Parque Sargento Pedraza/07.png)
+![alt text](https://github.com/jsp9/reportes-inseguridad/blob/main/carpetas/data/figures/Zona Yoltic, Escuadrón Ausangate, Parque Sargento Pedraza/map.png)

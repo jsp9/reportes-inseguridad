@@ -1,0 +1,9 @@
+# Zona Ki'ich Kelem Ajal, Cadena Grasmere, Explanada BJ
+![alt text](https://github.com/jsp9/reportes-inseguridad/blob/main/carpetas/data/figures/Zona Ki'ich Kelem Ajal, Cadena Grasmere, Explanada BJ/01.png)
+![alt text](https://github.com/jsp9/reportes-inseguridad/blob/main/carpetas/data/figures/Zona Ki'ich Kelem Ajal, Cadena Grasmere, Explanada BJ/02.png)
+![alt text](https://github.com/jsp9/reportes-inseguridad/blob/main/carpetas/data/figures/Zona Ki'ich Kelem Ajal, Cadena Grasmere, Explanada BJ/03.png)
+![alt text](https://github.com/jsp9/reportes-inseguridad/blob/main/carpetas/data/figures/Zona Ki'ich Kelem Ajal, Cadena Grasmere, Explanada BJ/04.png)
+![alt text](https://github.com/jsp9/reportes-inseguridad/blob/main/carpetas/data/figures/Zona Ki'ich Kelem Ajal, Cadena Grasmere, Explanada BJ/05.png)
+![alt text](https://github.com/jsp9/reportes-inseguridad/blob/main/carpetas/data/figures/Zona Ki'ich Kelem Ajal, Cadena Grasmere, Explanada BJ/06.png)
+![alt text](https://github.com/jsp9/reportes-inseguridad/blob/main/carpetas/data/figures/Zona Ki'ich Kelem Ajal, Cadena Grasmere, Explanada BJ/07.png)
+![alt text](https://github.com/jsp9/reportes-inseguridad/blob/main/carpetas/data/figures/Zona Ki'ich Kelem Ajal, Cadena Grasmere, Explanada BJ/map.png)

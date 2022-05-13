@@ -1,0 +1,9 @@
+# Zona Sadday, Conquista Ras-Algethi, Muro de la Paz
+![alt text](https://github.com/jsp9/reportes-inseguridad/blob/main/carpetas/data/figures/Zona Sadday, Conquista Ras-Algethi, Muro de la Paz/01.png)
+![alt text](https://github.com/jsp9/reportes-inseguridad/blob/main/carpetas/data/figures/Zona Sadday, Conquista Ras-Algethi, Muro de la Paz/02.png)
+![alt text](https://github.com/jsp9/reportes-inseguridad/blob/main/carpetas/data/figures/Zona Sadday, Conquista Ras-Algethi, Muro de la Paz/03.png)
+![alt text](https://github.com/jsp9/reportes-inseguridad/blob/main/carpetas/data/figures/Zona Sadday, Conquista Ras-Algethi, Muro de la Paz/04.png)
+![alt text](https://github.com/jsp9/reportes-inseguridad/blob/main/carpetas/data/figures/Zona Sadday, Conquista Ras-Algethi, Muro de la Paz/05.png)
+![alt text](https://github.com/jsp9/reportes-inseguridad/blob/main/carpetas/data/figures/Zona Sadday, Conquista Ras-Algethi, Muro de la Paz/06.png)
+![alt text](https://github.com/jsp9/reportes-inseguridad/blob/main/carpetas/data/figures/Zona Sadday, Conquista Ras-Algethi, Muro de la Paz/07.png)
+![alt text](https://github.com/jsp9/reportes-inseguridad/blob/main/carpetas/data/figures/Zona Sadday, Conquista Ras-Algethi, Muro de la Paz/map.png)
